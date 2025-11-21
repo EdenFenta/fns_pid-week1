@@ -1,0 +1,1 @@
+from ..src.data_prep import process_headlines
