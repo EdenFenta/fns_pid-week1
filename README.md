@@ -1,4 +1,4 @@
-# FNS_PID Week 1 - Task 1
+# news-sentiment-price-prediction - Task 1
 
 ## Description
 The goal is to clean, process, and analyze news headlines to extract insights on trends and publisher activity.
